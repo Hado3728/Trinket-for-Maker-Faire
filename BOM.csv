@@ -1,0 +1,8 @@
+Item,Part,Qty,File,Material,Suggested colour,Print orientation,Notes
+1,Body,1,body.stl,PLA,Purple,Flat on its base,"Solid block. Uprights, hook forks, wheel pockets and the 22x22x1 recess are all part of this one print"
+2,Drum,1,drum.stl,PLA,Red,Standing on one end (axis vertical),Vertical gives a clean round bore. Spins on its axle
+3,Axle,2,axle.stl,PLA,Grey,Lying flat on the bed,"One for the drum, one for the wheels. Printed standing up it snaps at a layer line"
+4,Wheel,2,wheel.stl,PLA,Black,Flat,Free to spin on the axle
+5,Clip,4,clip.stl,PETG (PLA works),Grey,"Flat, as modelled","Only 2 are needed; print spares. Springs into the axle groove. Do not print on edge"
+6,Push cap,0,cap_push.stl,PETG (PLA works),Grey,Flat,"OPTIONAL alternative to the clip. Tidier but one-way - breaks on removal"
+7,Emblem insert,0,-,PLA,Any,Flat,"OPTIONAL. Recess on top is 22 x 22 x 1 mm. Model your own and press it in, or leave it empty"
